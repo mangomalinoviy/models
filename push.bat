@@ -1,7 +1,7 @@
 @echo off
 
 set GIT_PATH="C:\Program Files\Git\bin\git.exe"
-set BRANCH = "models"
+set BRANCH = "main"
 
 %GIT_PATH% add .
 %GIT_PATH% commit -am "Auto-committed on %date%"
