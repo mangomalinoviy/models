@@ -1,1 +1,1 @@
-git push https://github.com/mangomalinoviy/models.git
+git clone git@github.com:mangomalinoviy/models.git
